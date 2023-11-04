@@ -1,3 +1,5 @@
-# fe-basic-18.10.2023
+# Front-End Basic course
 
-lorem ipsum
+### Starts: 18.10.2023
+
+Basic lesson template for Front-End course
